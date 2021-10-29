@@ -17,3 +17,7 @@ else
 printf("not palindrome");   
 return 0;  
 }   
+
+
+OutPut : enter the number=1221
+palindrome number
